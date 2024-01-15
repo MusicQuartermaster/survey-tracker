@@ -96,3 +96,4 @@ UI Designer:		Noah Houtchens
 Everything else:	Noah Houtchens
 
 nhout2@uis.edu
+noahhoutchens@gmail.com
