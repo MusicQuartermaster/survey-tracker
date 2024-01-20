@@ -21,7 +21,7 @@ I.	HOW TO INSTALL (Windows)
 You should now be able to run "Survey Tracker.exe" either from the shortcut you created or from the original file
 
 Please note that your antivirus software will most likely flag the program as being a potential security threat.
-This is because I didn't want to pay over $400 to have the software officially certified, signed, and lisenced to
+This is because I didn't want to pay over $400 to have the software officially certified, signed, and licensed to
 avoid this.
 Trust me when I say it's not a virus.
 
