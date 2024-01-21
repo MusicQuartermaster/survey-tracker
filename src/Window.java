@@ -229,13 +229,11 @@ public class Window implements ActionListener, ListSelectionListener {
 	// determines which students have a survey due
 	public void updateList() {
 		String[] names = new String[console.students.size()];
-		LinkedList<Integer> surveys = new LinkedList<Integer>();
 		for (int i = 0; i < names.length; i++) {
 			Student s = console.students.get(i);
 			names[i] = s.getName();
 			if (s.update()) {
 				names[i] += " - Survey Due";
-				surveys.add(i);
 			}
 		}
 		studentList.setListData(names);
